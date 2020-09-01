@@ -1,0 +1,28 @@
+.header {
+    background-color: #161616;
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px;
+    -webkit-user-select: none;
+    -webkit-app-region: drag;
+}
+
+.iconHeader{
+    position: absolute;
+    top: 0.6%;
+    left: 1%;
+    width: 25px;
+}
+
+.title {
+    color: #9c9c9c;
+    position: absolute;
+    left: 50%;
+    font-size: 10px;
+}
+
+.buttonHeader {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
+    margin-left: 20px;
+}
