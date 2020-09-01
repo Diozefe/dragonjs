@@ -5,7 +5,12 @@
 }
 
 .buttonSelectProject {
-    width: 14rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    width: 225px;
     height: 3rem;
 
     background-color: #161616;

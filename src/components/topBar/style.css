@@ -1,0 +1,12 @@
+.topBar {
+    width: 217px;
+    padding: 4px;
+
+    background-color: #161616;
+
+    color: #404040;
+}
+
+.topBarIcon {
+    margin-left: 10px;
+}
